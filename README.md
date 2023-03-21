@@ -40,6 +40,7 @@ Successfully completed the following tasks:
 ```
 <img width="1302" alt="Screenshot 2023-03-22 at 01 14 07" src="https://user-images.githubusercontent.com/45260734/226703728-f520e771-6d96-4633-9278-486dd11ddfe8.png">
 
+- The API url stored in .env as API_URL
 
 ## Screenshots
 
