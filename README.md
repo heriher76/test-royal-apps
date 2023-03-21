@@ -30,10 +30,18 @@ Successfully completed the following tasks:
 ```
     
 ## Documentation
+- Take access token in profile page for create new author in CLI
+<br>
+<img width="546" alt="Screenshot 2023-03-22 at 01 11 01" src="https://user-images.githubusercontent.com/45260734/226703148-4bd781cb-f514-47ea-b9b4-ff6ee08e64a7.png">
 
+- Create new author in CLI
+```bash
+  php artisan create:author {access_token}
+```
+<img width="1302" alt="Screenshot 2023-03-22 at 01 14 07" src="https://user-images.githubusercontent.com/45260734/226703728-f520e771-6d96-4633-9278-486dd11ddfe8.png">
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="603" alt="Screenshot 2023-03-22 at 01 12 10" src="https://user-images.githubusercontent.com/45260734/226703123-59f38d0a-3064-4f88-8f38-4db7923f4224.png">
 
